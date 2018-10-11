@@ -1,0 +1,11 @@
+{
+  "usingComponents":{
+    "van-cell-group": "/static/vant/cell-group/index",
+    "van-cell": "/static/vant/cell/index",
+    "van-notice-bar": "/static/vant/notice-bar/index",
+    "van-icon": "/static/vant/icon/index",
+    "van-transition": "/static/vant/transition/index",
+    "wux-circle": "/static/wux/circle/index"
+  },
+  "navigationBarTitleText": "猫叫助手"
+}

@@ -1,0 +1,8 @@
+{
+  "usingComponents":{
+    "van-cell-group": "/static/vant/cell-group/index",
+    "van-cell": "/static/vant/cell/index",
+    "van-transition": "/static/vant/transition/index"
+  },
+  "navigationBarTitleText": "养猫小知识"
+}

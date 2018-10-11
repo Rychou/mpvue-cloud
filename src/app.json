@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/articles/main",
+    "pages/articles/article/main",
+    "pages/user/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f59aaa",
+    "navigationBarTitleText": "猫叫助手",
+    "navigationBarTextStyle": "light"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/main",
+        "iconPath": "static/icons/home.png",
+        "selectedIconPath": "static/icons/home-selected.png",
+        "text": "猫叫"
+      },
+      {
+        "pagePath": "pages/articles/main",
+        "iconPath": "static/icons/home.png",
+        "selectedIconPath": "static/icons/home-selected.png",
+        "text": "养猫小知识"
+      },
+      {
+        "pagePath": "pages/user/main",
+        "iconPath": "static/icons/home.png",
+        "selectedIconPath": "static/icons/home-selected.png",
+        "text": "我"
+      }
+    ],
+    "selectedColor": "#f59aaa",
+    "borderStyle":"white"
+  }
+}
